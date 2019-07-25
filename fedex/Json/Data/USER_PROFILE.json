@@ -1,0 +1,31 @@
+{
+  "Admin":{
+    "ID":"ComAdmin",
+    "PASSWORD":"Test1234"
+  },
+  "AMSQA":{
+    "ID":"AMSDIGI",
+    "PASSWORD":"Test1234"
+  },
+  "L3ACC":{
+   "ID":"L3USRR",
+    "PASSWORD":"Test1234"
+  },
+  "Magsadmin":{
+    "ID":"MAGSADMIN",
+    "PASSWORD":"Test1234"
+  },
+  "Magsregister": {
+    "ID": "MAGSVEL",
+    "PASSWORD": "Test1234"
+  },
+  "MultiAccount":{
+    "ID":"MAGSMULTIACC",
+    "PASSWORD":"Test1234"
+  },
+  "MAGICJP": {
+    "ID": "MAGICJP",
+    "PASSWORD": "Test1234"
+  }
+
+}

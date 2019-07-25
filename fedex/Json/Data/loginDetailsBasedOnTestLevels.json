@@ -1,0 +1,42 @@
+{
+  "L6": {
+    "PICKUPFail": {
+      "ID": "MAGICGB",
+      "PASSWORD": "Test1234"
+    },
+    "AMSQA": {
+      "ID": "AMSDIGI",
+      "PASSWORD": "Test1234"
+    }
+  },
+  "L3": {
+    "PICKUPFail": {
+      "ID": "MAGICJP",
+      "PASSWORD": "Test1234"
+    },
+    "AMSQA": {
+      "ID": "AMSDIGI",
+      "PASSWORD": "Test1234"
+    }
+  },
+  "L2": {
+    "PICKUPFail": {
+      "ID": "MAGICJP",
+      "PASSWORD": "Test1234"
+    },
+    "AMSQA": {
+      "ID": "AMSDIGI",
+      "PASSWORD": "Test1234"
+    }
+  },
+  "L1": {
+    "Admin": {
+      "ID": "ComAdmin",
+      "PASSWORD": "Test1234"
+    },
+    "AMSQA": {
+      "ID": "AMSDIGI",
+      "PASSWORD": "Test1234"
+    }
+  }
+}

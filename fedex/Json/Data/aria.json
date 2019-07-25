@@ -1,0 +1,15 @@
+{
+	"sample":[
+		{
+			"CountryKey": "UNITED ARAB EMIRATES",
+			"CurrencySymbols": "دإ",
+			"CurrencyCodeExpected": "AED",
+			"SampleAddress": "United Arab Emirates University - Abu Dhabi - United Arab Emirates",
+			"Occurance": 1
+			
+		},
+	"arialabel": {
+  		"goto button arialabel" : "Goto Address"
+  	}
+	
+]}

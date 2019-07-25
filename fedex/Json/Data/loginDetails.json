@@ -1,0 +1,34 @@
+{
+	"USERS": [
+		{
+			"UserName": "SingleAccountL3",
+			"ID": "L3US7BL3",
+			"Password": "Test1234"
+		},
+		{
+			"UserName": "MultipleAccountL3",
+			"ID": "L3USRR",
+			"Password": "Test1234"
+		},
+		{
+			"UserName": "DefaultL3",
+			"ID": "L3AUTOMAGIC",
+			"Password": "Test1234"
+		},
+		{
+			"UserName": null,
+			"ID": "L6BANG01",
+			"Password": "Verify1234"
+		},
+		{
+			"UserName": null,
+			"ID": "L6BANG02",
+			"Password": "Verify1234"
+		},
+		{
+			"UserName": null,
+			"ID": "L6BANG03",
+			"Password": "Verify1234"
+		}
+	]	
+}

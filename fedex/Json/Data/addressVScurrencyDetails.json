@@ -1,0 +1,889 @@
+{
+  "Countries": [
+    {
+      "CountryKey": "UNITED ARAB EMIRATES",
+      "CurrencySymbols": "دإ",
+      "CurrencyCodeExpected": "AED",
+      "SampleAddress": "United Arab Emirates University - Abu Dhabi - United Arab Emirates",
+      "Occurrence": 1,
+      "city": "Dubai",
+      "stateOrProvinceCode": "",
+      "countryCode": "AE"
+    },
+    {
+      "CountryKey": "CURACAO",
+      "CurrencySymbols": "ƒ",
+      "CurrencyCodeExpected": "ANG",
+      "SampleAddress": "Curacao, Curaçao",
+      "Occurrence": 1
+    },
+    {
+      "CountryKey": "ARGENTINA",
+      "CurrencySymbols": "$",
+      "CurrencyCodeExpected": "ARS",
+      "SampleAddress": "Argentina, Ramos Mejía, Buenos Aires Province, Argentina",
+      "Occurrence": 4
+    },
+    {
+      "CountryKey": "AUSTRALIA",
+      "CurrencySymbols": "A$",
+      "CurrencyCodeExpected": "AUD",
+      "SampleAddress": "Australia Fair Shopping Centre, Marine Parade, Southport QLD, Australia",
+      "Occurrence": 4
+    },
+    {
+      "CountryKey": "ARUBA",
+      "CurrencySymbols": "ƒ",
+      "CurrencyCodeExpected": "AWG",
+      "SampleAddress": "Noord, Aruba",
+      "Occurrence": 4
+    },
+    {
+      "CountryKey": "BARBADOS",
+      "CurrencySymbols": "$",
+      "CurrencyCodeExpected": "BBD",
+      "SampleAddress": "Coffee Gully, Saint Joseph, Barbados",
+      "Occurrence": 0
+    },
+    {
+      "CountryKey": "BAHRAIN",
+      "CurrencySymbols": "BD",
+      "CurrencyCodeExpected": "BHD",
+      "SampleAddress": "Bahrain Specialist Hospital, Road No 2447, Manama, Bahrain",
+      "Occurrence": 4
+    },
+    {
+      "CountryKey": "BERMUDA",
+      "CurrencySymbols": "$",
+      "CurrencyCodeExpected": "BMD",
+      "SampleAddress": "Devonshire, Devonshire Parish, Bermuda",
+      "Occurrence": 0
+    },
+    {
+      "CountryKey": "BRUNEI",
+      "CurrencySymbols": "$",
+      "CurrencyCodeExpected": "BND",
+      "SampleAddress": "",
+      "Occurrence": null
+    },
+    {
+      "CountryKey": "BRAZIL 18310",
+      "CurrencySymbols": "R$",
+      "CurrencyCodeExpected": "BRL",
+      "SampleAddress": "Avenida Brasil, 18310 - Padre Miguel, Rio de Janeiro - State of Rio de Janeiro, Brazil",
+      "Occurrence": 2
+    },
+    {
+      "CountryKey": "CANADA",
+      "CurrencySymbols": "CA$",
+      "CurrencyCodeExpected": "CAD",
+      "SampleAddress": "Vaughan, Maple, Ontario L6A 1S6, Canada",
+      "Occurrence": 0
+    },
+    {
+      "CountryKey": "SWITZERLAND",
+      "CurrencySymbols": "Fr",
+      "CurrencyCodeExpected": "CHF",
+      "SampleAddress": "Switzerland Wedding Company, Kirchgasse, Wilderswil, Switzerland",
+      "Occurrence": 3
+    },
+    {
+      "CountryKey": "CHILE",
+      "CurrencySymbols": "$",
+      "CurrencyCodeExpected": "CLP",
+      "SampleAddress": "Chile, Maipú, Maipu, Chile",
+      "Occurrence": 1
+    },
+    {
+      "CountryKey": "CHINA CHINA",
+      "CurrencySymbols": "CN¥",
+      "CurrencyCodeExpected": "CNY",
+      "SampleAddress": "China Hotel, A Marriott Hotel, Liuhua Road, Yuexiu, Guangzhou, Guangdong, China",
+      "Occurrence": 1
+    },
+    {
+      "CountryKey": "COLOMBIA",
+      "CurrencySymbols": "$",
+      "CurrencyCodeExpected": "COP",
+      "SampleAddress": "",
+      "Occurrence": null
+    },
+    {
+      "CountryKey": "Costa Rica",
+      "CurrencySymbols": "₡",
+      "CurrencyCodeExpected": "CRC",
+      "SampleAddress": "Costa Rica Marriott Hotel San Jose, Heredia Province, Heredia, Costa Rica",
+      "Occurrence": 3
+    },
+    {
+      "CountryKey": "CZECH REPUBLIC",
+      "CurrencySymbols": "Kč",
+      "CurrencyCodeExpected": "CZK",
+      "SampleAddress": "Czech Republic Onamba Ltd., 842, Olomouc, Czechia",
+      "Occurrence": 3
+    },
+    {
+      "CountryKey": "DENMARK DENMARK",
+      "CurrencySymbols": "kr",
+      "CurrencyCodeExpected": "DKK",
+      "SampleAddress": "Denmark Help4u, Nørregade, Bjerringbro, Denmark",
+      "Occurrence": 1
+    },
+    {
+      "CountryKey": "EGYPT",
+      "CurrencySymbols": "E£",
+      "CurrencyCodeExpected": "EGP",
+      "SampleAddress": "Egypt Pyramids Tours, Oula, Giza, Egypt",
+      "Occurrence": 1
+    },
+    {
+      "CountryKey": "NETHERLANDS (HOLLAND)",
+      "CurrencySymbols": "€",
+      "CurrencyCodeExpected": "EUR",
+      "SampleAddress": "Holland Casino, Max Euweplein, Amsterdam, Netherlands",
+      "Occurrence": 2
+    },
+    {
+      "CountryKey": "UNITED KINGDOM",
+      "CurrencySymbols": "£",
+      "CurrencyCodeExpected": "GBP",
+      "SampleAddress": "United Kingdom Border Force, Gatwick Airport, LGW, Horley, Gatwick, UK",
+      "Occurrence": 3
+    },
+    {
+      "CountryKey": "Guatemala",
+      "CurrencySymbols": "Q",
+      "CurrencyCodeExpected": "GTQ",
+      "SampleAddress": "Guatemala, Sololá, Guatemala",
+      "Occurrence": 4
+    },
+    {
+      "CountryKey": "HONG KONG",
+      "CurrencySymbols": "HK$",
+      "CurrencyCodeExpected": "HKD",
+      "SampleAddress": "Hong Kong International Airport (HKG), Sky Plaza Road, Chek Lap Kok, Hong Kong",
+      "Occurrence": 1
+    },
+    {
+      "CountryKey": "HUNGARY HUNGARY",
+      "CurrencySymbols": "Ft",
+      "CurrencyCodeExpected": "HUF",
+      "SampleAddress": "Szolnok, Hungary Air Base, E60, Hungary",
+      "Occurrence": 0
+    },
+    {
+      "CountryKey": "ISRAEL",
+      "CurrencySymbols": "₪",
+      "CurrencyCodeExpected": "ILS",
+      "SampleAddress": "",
+      "Occurrence": null
+    },
+    {
+      "CountryKey": "India",
+      "CurrencySymbols": "₹",
+      "CurrencyCodeExpected": "INR",
+      "SampleAddress": "New Delhi, Delhi, 110002, India",
+      "Occurrence": 3
+    },
+    {
+      "CountryKey": "JAMAICA",
+      "CurrencySymbols": "$",
+      "CurrencyCodeExpected": "JMD",
+      "SampleAddress": "Summerfield, Clarendon, Jamaica",
+      "Occurrence": 1
+    },
+    {
+      "CountryKey": "JAPAN",
+      "CurrencySymbols": "¥",
+      "CurrencyCodeExpected": "JPY",
+      "SampleAddress": "Nagawa-machi, Nagano-ken, 386-0601, Japan",
+      "Occurrence": 0
+    },
+    {
+      "CountryKey": "KUWAIT KUWAIT",
+      "CurrencySymbols": "K.D.",
+      "CurrencyCodeExpected": "KWD",
+      "SampleAddress": "Kuwait University, Jamal Abdul Nasser Street, Kuwait",
+      "Occurrence": 3
+    },
+    {
+      "CountryKey": "CAYMAN ISLANDS",
+      "CurrencySymbols": "$",
+      "CurrencyCodeExpected": "KYD",
+      "SampleAddress": "Cayman Islands Tourism Association, West Bay Road, West Bay, Cayman Islands",
+      "Occurrence": 2
+    },
+    {
+      "CountryKey": "Libya",
+      "CurrencySymbols": "LYD",
+      "CurrencyCodeExpected": "LYD",
+      "SampleAddress": "",
+      "Occurrence": null
+    },
+    {
+      "CountryKey": "MACAU",
+      "CurrencySymbols": "MOP$",
+      "CurrencyCodeExpected": "MOP",
+      "SampleAddress": "",
+      "Occurrence": null
+    },
+    {
+      "CountryKey": "MEXICO",
+      "CurrencySymbols": "MX$",
+      "CurrencyCodeExpected": "MXN",
+      "SampleAddress": "Ciudad de México, Ciudad de México, 06000, Mexico",
+      "Occurrence": 1
+    },
+    {
+      "CountryKey": "MALAYSIA",
+      "CurrencySymbols": "RM",
+      "CurrencyCodeExpected": "MYR",
+      "SampleAddress": "Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, 54100, Malaysia",
+      "Occurrence": 1
+    },
+    {
+      "CountryKey": "NORWAY",
+      "CurrencySymbols": "kr",
+      "CurrencyCodeExpected": "NOK",
+      "SampleAddress": "Hol, Buskerud, 3580, Norway",
+      "Occurrence": 0
+    },
+    {
+      "CountryKey": "New Zealand",
+      "CurrencySymbols": "NZ$",
+      "CurrencyCodeExpected": "NZD",
+      "SampleAddress": "Paraparaumu, Wellington, 5034, New Zealand",
+      "Occurrence": 0
+    },
+    {
+      "CountryKey": "POLAND",
+      "CurrencySymbols": "zł",
+      "CurrencyCodeExpected": "PLN",
+      "SampleAddress": "Skórka, województwo łódzkie, 95-045, Poland",
+      "Occurrence": 0
+    },
+    {
+      "CountryKey": "SAUDI ARABIA",
+      "CurrencySymbols": "﷼",
+      "CurrencyCodeExpected": "SAR",
+      "SampleAddress": "",
+      "Occurrence": null
+    },
+    {
+      "CountryKey": "Solomon Islands",
+      "CurrencySymbols": "$",
+      "CurrencyCodeExpected": "SBD",
+      "SampleAddress": "",
+      "Occurrence": null
+    },
+    {
+      "CountryKey": "SWEDEN",
+      "CurrencySymbols": "kr",
+      "CurrencyCodeExpected": "SEK",
+      "SampleAddress": "Herräng, Stockholms län, 760 49, Sweden",
+      "Occurrence": 0
+    },
+    {
+      "CountryKey": "Singapore",
+      "CurrencySymbols": "$",
+      "CurrencyCodeExpected": "SGD",
+      "SampleAddress": "Raffles Place, Singapore Land Tower, Singapore",
+      "Occurrence": 2
+    },
+    {
+      "CountryKey": "Turkey",
+      "CurrencySymbols": "₺",
+      "CurrencyCodeExpected": "TRY",
+      "SampleAddress": "",
+      "Occurrence": null
+    },
+    {
+      "CountryKey": "Arima, Trinidad and Tobago",
+      "CurrencySymbols": "$",
+      "CurrencyCodeExpected": "TTD",
+      "SampleAddress": "Arima, Trinidad and Tobago",
+      "Occurrence": 1
+    },
+    {
+      "CountryKey": "TAIWAN, REPUBLIC OF CHINA",
+      "CurrencySymbols": "NT$",
+      "CurrencyCodeExpected": "TWD",
+      "SampleAddress": "Republic of China Military Academy, 維武路 Fengshan District, Kaohsiung City, Taiwan",
+      "Occurrence": 1
+    },
+    {
+      "CountryKey": "United States",
+      "CurrencySymbols": "$",
+      "CurrencyCodeExpected": "USD",
+      "SampleAddress": "United States Botanic Garden, Maryland Avenue Southwest, Washington, DC, USA",
+      "Occurrence": 4
+    },
+    {
+      "CountryKey": "Venezuela",
+      "CurrencySymbols": "Bs",
+      "CurrencyCodeExpected": "VEF",
+      "SampleAddress": "Caracas, Capital District, Venezuela",
+      "Occurrence": 3
+    },
+    {
+      "CountryKey": "",
+      "CurrencySymbols": "EC$",
+      "CurrencyCodeExpected": "XCD",
+      "SampleAddress": "",
+      "Occurrence": null
+    },
+    {
+      "CountryKey": "South Africa",
+      "CurrencySymbols": "R",
+      "CurrencyCodeExpected": "ZAR",
+      "SampleAddress": "South African Civil Aviation Authority, Bekker Road, Midrand, Johannesburg, South Africa",
+      "Occurrence": 4
+    },
+    {
+      "CountryKey": "Bahamas",
+      "CurrencySymbols": "$",
+      "CurrencyCodeExpected": "USD",
+      "SampleAddress": "Nassau, The Bahamas",
+      "Occurrence": 3
+    },
+    {
+      "CountryKey": "DOMINICA DOMINICA",
+      "CurrencySymbols": "$",
+      "CurrencyCodeExpected": "USD",
+      "SampleAddress": "Dominica Airport, Dr Nicholas Liverpool Hwy, Dominica",
+      "Occurrence": 1
+    },
+    {
+      "CountryKey": "Kenya",
+      "CurrencySymbols": "KES",
+      "CurrencyCodeExpected": "USD",
+      "SampleAddress": "",
+      "Occurrence": null
+    },
+    {
+      "CountryKey": "South Korea",
+      "CurrencySymbols": "₩",
+      "CurrencyCodeExpected": "USD",
+      "SampleAddress": "",
+      "Occurrence": null
+    },
+    {
+      "CountryKey": "Kazakhstan",
+      "CurrencySymbols": "₸",
+      "CurrencyCodeExpected": "USD",
+      "SampleAddress": "",
+      "Occurrence": null
+    },
+    {
+      "CountryKey": "Panama",
+      "CurrencySymbols": "B/.",
+      "CurrencyCodeExpected": "USD",
+      "SampleAddress": "",
+      "Occurrence": null
+    },
+    {
+      "CountryKey": "Philippines",
+      "CurrencySymbols": "₱",
+      "CurrencyCodeExpected": "USD",
+      "SampleAddress": "",
+      "Occurrence": null
+    },
+    {
+      "CountryKey": "Pakistan",
+      "CurrencySymbols": "Rs",
+      "CurrencyCodeExpected": "USD",
+      "SampleAddress": "",
+      "Occurrence": null
+    },
+    {
+      "CountryKey": "Russia",
+      "CurrencySymbols": "₽",
+      "CurrencyCodeExpected": "RUB",
+      "SampleAddress": "",
+      "Occurrence": null
+    },
+    {
+      "CountryKey": "Thailand",
+      "CurrencySymbols": "$",
+      "CurrencyCodeExpected": "USD",
+      "SampleAddress": "",
+      "Occurrence": null
+    },
+    {
+      "CountryKey": "Tonga",
+      "CurrencySymbols": "$",
+      "CurrencyCodeExpected": "USD",
+      "SampleAddress": "",
+      "Occurrence": null
+    },
+    {
+      "CountryKey": "Uganda",
+      "CurrencySymbols": "$",
+      "CurrencyCodeExpected": "USD",
+      "SampleAddress": "",
+      "Occurrence": null
+    },
+    {
+      "CountryKey": "Uruguay",
+      "CurrencySymbols": "$",
+      "CurrencyCodeExpected": "USD",
+      "SampleAddress": "Uruguay, Maldonado Maldonado Department, Uruguay",
+      "Occurrence": null
+    },
+    {
+      "CountryKey": "Veitnam",
+      "CurrencySymbols": "$",
+      "CurrencyCodeExpected": "USD",
+      "SampleAddress": "Vietnamese Women's Museum, Lý Thường Kiệt, Hàng Bài, Hoàn Kiếm, Hanoi, Vietnam",
+      "Occurrence": 2
+    },
+    {
+      "CountryKey": "Samoa",
+      "CurrencySymbols": "$",
+      "CurrencyCodeExpected": "USD",
+      "SampleAddress": "",
+      "Occurrence": null
+    },
+    {
+      "CountryKey": "UNITED ARAB EMIRATES",
+      "CurrencySymbols": "دإ",
+      "CurrencyCodeExpected": "AED",
+      "SampleAddress": "United Arab Emirates University - Abu Dhabi - United Arab Emirates",
+      "Occurrence": 1
+    },
+    {
+      "CountryKey": "CURACAO",
+      "CurrencySymbols": "ƒ",
+      "CurrencyCodeExpected": "ANG",
+      "SampleAddress": "Curacao, Curaçao",
+      "Occurrence": 1
+    },
+    {
+      "CountryKey": "ARGENTINA",
+      "CurrencySymbols": "$",
+      "CurrencyCodeExpected": "ARS",
+      "SampleAddress": "Argentina, Ramos Mejía, Buenos Aires Province, Argentina",
+      "Occurrence": 4
+    },
+    {
+      "CountryKey": "AUSTRALIA",
+      "CurrencySymbols": "A$",
+      "CurrencyCodeExpected": "AUD",
+      "SampleAddress": "Australia Fair Shopping Centre, Marine Parade, Southport QLD, Australia",
+      "Occurrence": 4
+    },
+    {
+      "CountryKey": "ARUBA",
+      "CurrencySymbols": "ƒ",
+      "CurrencyCodeExpected": "AWG",
+      "SampleAddress": "Noord, Aruba",
+      "Occurrence": 4
+    },
+    {
+      "CountryKey": "BARBADOS",
+      "CurrencySymbols": "$",
+      "CurrencyCodeExpected": "BBD",
+      "SampleAddress": "Coffee Gully, Saint Joseph, Barbados",
+      "Occurrence": 0
+    },
+    {
+      "CountryKey": "BAHRAIN",
+      "CurrencySymbols": "BD",
+      "CurrencyCodeExpected": "BHD",
+      "SampleAddress": "Bahrain Specialist Hospital, Road No 2447, Manama, Bahrain",
+      "Occurrence": 4
+    },
+    {
+      "CountryKey": "BERMUDA",
+      "CurrencySymbols": "$",
+      "CurrencyCodeExpected": "BMD",
+      "SampleAddress": "Devonshire, Devonshire Parish, Bermuda",
+      "Occurrence": 0
+    },
+    {
+      "CountryKey": "BRUNEI",
+      "CurrencySymbols": "$",
+      "CurrencyCodeExpected": "BND",
+      "SampleAddress": "",
+      "Occurrence": null
+    },
+    {
+      "CountryKey": "BRAZIL 18310",
+      "CurrencySymbols": "R$",
+      "CurrencyCodeExpected": "BRL",
+      "SampleAddress": "Avenida Brasil, 18310 - Padre Miguel, Rio de Janeiro - State of Rio de Janeiro, Brazil",
+      "Occurrence": 2
+    },
+    {
+      "CountryKey": "CANADA",
+      "CurrencySymbols": "CA$",
+      "CurrencyCodeExpected": "CAD",
+      "SampleAddress": "Vaughan, Maple, Ontario L6A 1S6, Canada",
+      "Occurrence": 4
+    },
+    {
+      "CountryKey": "SWITZERLAND",
+      "CurrencySymbols": "Fr",
+      "CurrencyCodeExpected": "CHF",
+      "SampleAddress": "Switzerland Wedding Company, Kirchgasse, Wilderswil, Switzerland",
+      "Occurrence": 3
+    },
+    {
+      "CountryKey": "CHILE",
+      "CurrencySymbols": "$",
+      "CurrencyCodeExpected": "CLP",
+      "SampleAddress": "Chile, Maipú, Maipu, Chile",
+      "Occurrence": 1
+    },
+    {
+      "CountryKey": "CHINA CHINA",
+      "CurrencySymbols": "CN¥",
+      "CurrencyCodeExpected": "CNY",
+      "SampleAddress": "China Hotel, A Marriott Hotel, Liuhua Road, Yuexiu, Guangzhou, Guangdong, China",
+      "Occurrence": 1
+    },
+    {
+      "CountryKey": "COLOMBIA",
+      "CurrencySymbols": "$",
+      "CurrencyCodeExpected": "COP",
+      "SampleAddress": "",
+      "Occurrence": null
+    },
+    {
+      "CountryKey": "Costa Rica",
+      "CurrencySymbols": "₡",
+      "CurrencyCodeExpected": "CRC",
+      "SampleAddress": "Costa Rica Marriott Hotel San Jose, Heredia Province, Heredia, Costa Rica",
+      "Occurrence": 3
+    },
+    {
+      "CountryKey": "CZECH REPUBLIC",
+      "CurrencySymbols": "Kč",
+      "CurrencyCodeExpected": "CZK",
+      "SampleAddress": "Czech Republic Onamba Ltd., 842, Olomouc, Czechia",
+      "Occurrence": 3
+    },
+    {
+      "CountryKey": "DENMARK DENMARK",
+      "CurrencySymbols": "kr",
+      "CurrencyCodeExpected": "DKK",
+      "SampleAddress": "Denmark Help4u, Nørregade, Bjerringbro, Denmark",
+      "Occurrence": 1
+    },
+    {
+      "CountryKey": "EGYPT",
+      "CurrencySymbols": "E£",
+      "CurrencyCodeExpected": "EGP",
+      "SampleAddress": "Egypt Pyramids Tours, Oula, Giza, Egypt",
+      "Occurrence": 1
+    },
+    {
+      "CountryKey": "NETHERLANDS (HOLLAND)",
+      "CurrencySymbols": "€",
+      "CurrencyCodeExpected": "EUR",
+      "SampleAddress": "Holland Casino, Max Euweplein, Amsterdam, Netherlands",
+      "Occurrence": 2
+    },
+    {
+      "CountryKey": "UNITED KINGDOM",
+      "CurrencySymbols": "£",
+      "CurrencyCodeExpected": "GBP",
+      "SampleAddress": "United Kingdom Border Force, Gatwick Airport, LGW, Horley, Gatwick, UK",
+      "Occurrence": 2
+    },
+    {
+      "CountryKey": "Guatemala",
+      "CurrencySymbols": "Q",
+      "CurrencyCodeExpected": "GTQ",
+      "SampleAddress": "Guatemala, Sololá, Guatemala",
+      "Occurrence": 4
+    },
+    {
+      "CountryKey": "HONG KONG",
+      "CurrencySymbols": "HK$",
+      "CurrencyCodeExpected": "HKD",
+      "SampleAddress": "Hong Kong International Airport (HKG), Sky Plaza Road, Chek Lap Kok, Hong Kong",
+      "Occurrence": 1
+    },
+    {
+      "CountryKey": "HUNGARY HUNGARY",
+      "CurrencySymbols": "Ft",
+      "CurrencyCodeExpected": "HUF",
+      "SampleAddress": "Szolnok, Hungary Air Base, E60, Hungary",
+      "Occurrence": 0
+    },
+    {
+      "CountryKey": "ISRAEL",
+      "CurrencySymbols": "₪",
+      "CurrencyCodeExpected": "ILS",
+      "SampleAddress": "",
+      "Occurrence": null
+    },
+    {
+      "CountryKey": "India",
+      "CurrencySymbols": "₹",
+      "CurrencyCodeExpected": "INR",
+      "SampleAddress": "New Delhi, Delhi, 110002, India",
+      "Occurrence": 3
+    },
+    {
+      "CountryKey": "JAMAICA",
+      "CurrencySymbols": "$",
+      "CurrencyCodeExpected": "JMD",
+      "SampleAddress": "Summerfield, Clarendon, Jamaica",
+      "Occurrence": 1
+    },
+    {
+      "CountryKey": "JAPAN",
+      "CurrencySymbols": "¥",
+      "CurrencyCodeExpected": "JPY",
+      "SampleAddress": "Nagawa-machi, Nagano-ken, 386-0601, Japan",
+      "Occurrence": 0
+    },
+    {
+      "CountryKey": "KUWAIT KUWAIT",
+      "CurrencySymbols": "K.D.",
+      "CurrencyCodeExpected": "KWD",
+      "SampleAddress": "Kuwait University, Jamal Abdul Nasser Street, Kuwait",
+      "Occurrence": 3
+    },
+    {
+      "CountryKey": "CAYMAN ISLANDS",
+      "CurrencySymbols": "$",
+      "CurrencyCodeExpected": "KYD",
+      "SampleAddress": "Cayman Islands Tourism Association, West Bay Road, West Bay, Cayman Islands",
+      "Occurrence": 2
+    },
+    {
+      "CountryKey": "Libya",
+      "CurrencySymbols": "LYD",
+      "CurrencyCodeExpected": "LYD",
+      "SampleAddress": "",
+      "Occurrence": null
+    },
+    {
+      "CountryKey": "MACAU",
+      "CurrencySymbols": "MOP$",
+      "CurrencyCodeExpected": "MOP",
+      "SampleAddress": "",
+      "Occurrence": null
+    },
+    {
+      "CountryKey": "MEXICO",
+      "CurrencySymbols": "MX$",
+      "CurrencyCodeExpected": "MXN",
+      "SampleAddress": "Ciudad de México, Ciudad de México, 06000, Mexico",
+      "Occurrence": 1
+    },
+    {
+      "CountryKey": "MALAYSIA",
+      "CurrencySymbols": "RM",
+      "CurrencyCodeExpected": "MYR",
+      "SampleAddress": "Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, 54100, Malaysia",
+      "Occurrence": 1
+    },
+    {
+      "CountryKey": "NORWAY",
+      "CurrencySymbols": "kr",
+      "CurrencyCodeExpected": "NOK",
+      "SampleAddress": "Hol, Buskerud, 3580, Norway",
+      "Occurrence": 0
+    },
+    {
+      "CountryKey": "New Zealand",
+      "CurrencySymbols": "NZ$",
+      "CurrencyCodeExpected": "NZD",
+      "SampleAddress": "Paraparaumu, Wellington, 5034, New Zealand",
+      "Occurrence": 0
+    },
+    {
+      "CountryKey": "POLAND",
+      "CurrencySymbols": "zł",
+      "CurrencyCodeExpected": "PLN",
+      "SampleAddress": "Skórka, województwo łódzkie, 95-045, Poland",
+      "Occurrence": 0
+    },
+    {
+      "CountryKey": "SAUDI ARABIA",
+      "CurrencySymbols": "﷼",
+      "CurrencyCodeExpected": "SAR",
+      "SampleAddress": "",
+      "Occurrence": null
+    },
+    {
+      "CountryKey": "Solomon Islands",
+      "CurrencySymbols": "$",
+      "CurrencyCodeExpected": "SBD",
+      "SampleAddress": "",
+      "Occurrence": null
+    },
+    {
+      "CountryKey": "SWEDEN",
+      "CurrencySymbols": "kr",
+      "CurrencyCodeExpected": "SEK",
+      "SampleAddress": "Herräng, Stockholms län, 760 49, Sweden",
+      "Occurrence": 0
+    },
+    {
+      "CountryKey": "Singapore",
+      "CurrencySymbols": "$",
+      "CurrencyCodeExpected": "SGD",
+      "SampleAddress": "Raffles Place, Singapore Land Tower, Singapore",
+      "Occurrence": 2
+    },
+    {
+      "CountryKey": "Turkey",
+      "CurrencySymbols": "₺",
+      "CurrencyCodeExpected": "TRY",
+      "SampleAddress": "",
+      "Occurrence": null
+    },
+    {
+      "CountryKey": "Arima, Trinidad and Tobago",
+      "CurrencySymbols": "$",
+      "CurrencyCodeExpected": "TTD",
+      "SampleAddress": "Arima, Trinidad and Tobago",
+      "Occurrence": 1
+    },
+    {
+      "CountryKey": "TAIWAN, REPUBLIC OF CHINA",
+      "CurrencySymbols": "NT$",
+      "CurrencyCodeExpected": "TWD",
+      "SampleAddress": "Republic of China Military Academy, 維武路 Fengshan District, Kaohsiung City, Taiwan",
+      "Occurrence": 1
+    },
+    {
+      "CountryKey": "United States",
+      "CurrencySymbols": "$",
+      "CurrencyCodeExpected": "USD",
+      "SampleAddress": "United States Botanic Garden, Maryland Avenue Southwest, Washington, DC, USA",
+      "Occurrence": 3
+    },
+    {
+      "CountryKey": "Venezuela",
+      "CurrencySymbols": "Bs",
+      "CurrencyCodeExpected": "VEF",
+      "SampleAddress": "Caracas, Capital District, Venezuela",
+      "Occurrence": 3
+    },
+    {
+      "CountryKey": "",
+      "CurrencySymbols": "EC$",
+      "CurrencyCodeExpected": "XCD",
+      "SampleAddress": "",
+      "Occurrence": null
+    },
+    {
+      "CountryKey": "South Africa",
+      "CurrencySymbols": "R",
+      "CurrencyCodeExpected": "ZAR",
+      "SampleAddress": "South African Civil Aviation Authority, Bekker Road, Midrand, Johannesburg, South Africa",
+      "Occurrence": 4
+    },
+    {
+      "CountryKey": "Bahamas",
+      "CurrencySymbols": "$",
+      "CurrencyCodeExpected": "USD",
+      "SampleAddress": "Nassau, The Bahamas",
+      "Occurrence": 3
+    },
+    {
+      "CountryKey": "DOMINICA DOMINICA",
+      "CurrencySymbols": "$",
+      "CurrencyCodeExpected": "USD",
+      "SampleAddress": "Dominica Airport, Dr Nicholas Liverpool Hwy, Dominica",
+      "Occurrence": 1
+    },
+    {
+      "CountryKey": "Kenya",
+      "CurrencySymbols": "KES",
+      "CurrencyCodeExpected": "USD",
+      "SampleAddress": "",
+      "Occurrence": null
+    },
+    {
+      "CountryKey": "South Korea",
+      "CurrencySymbols": "₩",
+      "CurrencyCodeExpected": "USD",
+      "SampleAddress": "",
+      "Occurrence": null
+    },
+    {
+      "CountryKey": "Kazakhstan",
+      "CurrencySymbols": "₸",
+      "CurrencyCodeExpected": "USD",
+      "SampleAddress": "",
+      "Occurrence": null
+    },
+    {
+      "CountryKey": "Panama",
+      "CurrencySymbols": "B/.",
+      "CurrencyCodeExpected": "USD",
+      "SampleAddress": "",
+      "Occurrence": null
+    },
+    {
+      "CountryKey": "Philippines",
+      "CurrencySymbols": "₱",
+      "CurrencyCodeExpected": "USD",
+      "SampleAddress": "",
+      "Occurrence": null
+    },
+    {
+      "CountryKey": "Pakistan",
+      "CurrencySymbols": "Rs",
+      "CurrencyCodeExpected": "USD",
+      "SampleAddress": "",
+      "Occurrence": null
+    },
+    {
+      "CountryKey": "Russia",
+      "CurrencySymbols": "₽",
+      "CurrencyCodeExpected": "RUB",
+      "SampleAddress": "",
+      "Occurrence": null
+    },
+    {
+      "CountryKey": "Thailand",
+      "CurrencySymbols": "$",
+      "CurrencyCodeExpected": "USD",
+      "SampleAddress": "",
+      "Occurrence": null
+    },
+    {
+      "CountryKey": "Tonga",
+      "CurrencySymbols": "$",
+      "CurrencyCodeExpected": "USD",
+      "SampleAddress": "",
+      "Occurrence": null
+    },
+    {
+      "CountryKey": "Uganda",
+      "CurrencySymbols": "$",
+      "CurrencyCodeExpected": "USD",
+      "SampleAddress": "",
+      "Occurrence": null
+    },
+    {
+      "CountryKey": "Uruguay",
+      "CurrencySymbols": "$",
+      "CurrencyCodeExpected": "USD",
+      "SampleAddress": "Uruguay, Maldonado Maldonado Department, Uruguay",
+      "Occurrence": null
+    },
+    {
+      "CountryKey": "Veitnam",
+      "CurrencySymbols": "$",
+      "CurrencyCodeExpected": "USD",
+      "SampleAddress": "Vietnamese Women's Museum, Lý Thường Kiệt, Hàng Bài, Hoàn Kiếm, Hanoi, Vietnam",
+      "Occurrence": 2
+    },
+    {
+      "CountryKey": "Samoa",
+      "CurrencySymbols": "$",
+      "CurrencyCodeExpected": "USD",
+      "SampleAddress": "",
+      "Occurrence": null
+    }
+  ]
+}

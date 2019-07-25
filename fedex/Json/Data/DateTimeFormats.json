@@ -1,0 +1,799 @@
+{
+  "list": [
+    {
+      "Locale": "cs_CZ",
+      "DateFormat": {
+        "small": "dd.MM.yy",
+        "medium": "d. M. y",
+        "long": "d. MMMM y",
+        "full": "EEEE d. MMMM y"
+      },
+      "TimeFormat": {
+        "small": "H:mm",
+        "medium": "H:mm:ss",
+        "long": "H:mm:ss z",
+        "full": "H:mm:ss zzzz"
+      }
+    },
+    {
+      "Locale": "da_DK",
+      "DateFormat": {
+        "small": "dd/MM/y",
+        "medium": "d. MMM y",
+        "long": "d. MMMM y",
+        "full": "EEEE 'den' d. MMMM y"
+      },
+      "TimeFormat": {
+        "small": "HH.mm",
+        "medium": "HH.mm.ss",
+        "long": "HH.mm.ss z",
+        "full": "HH.mm.ss zzzz"
+      }
+    },
+    {
+      "Locale": "de_AT",
+      "DateFormat": {
+        "small": "dd.MM.yy",
+        "medium": "dd.MM.y",
+        "long": "d. MMMM y",
+        "full": "EEEE, d. MMMM y"
+      },
+      "TimeFormat": {
+        "small": "HH:mm",
+        "medium": "HH:mm:ss",
+        "long": "HH:mm:ss z",
+        "full": "HH:mm:ss zzzz"
+      }
+    },
+    {
+      "Locale": "de_DE",
+      "DateFormat": {
+        "small": "dd.MM.yy",
+        "medium": "dd.MM.y",
+        "long": "d. MMMM y",
+        "full": "EEEE, d. MMMM y"
+      },
+      "TimeFormat": {
+        "small": "HH:mm",
+        "medium": "HH:mm:ss",
+        "long": "HH:mm:ss z",
+        "full": "HH:mm:ss zzzz"
+      }
+    },
+    {
+      "Locale": "en_AU",
+      "DateFormat": {
+        "small": "d/M/yy",
+        "medium": "d MMM y",
+        "long": "d MMMM y",
+        "full": "EEEE, d MMMM y"
+      },
+      "TimeFormat": {
+        "small": "h:mm a",
+        "medium": "h:mm:ss a",
+        "long": "h:mm:ss a z",
+        "full": "h:mm:ss a zzzz"
+      }
+    },
+    {
+      "Locale": "en_NL",
+      "DateFormat": {
+        "small": "dd/MM/y",
+        "medium": "d MMM y",
+        "long": "d MMMM y",
+        "full": "EEEE, d MMMM y"
+      },
+      "TimeFormat": {
+        "small": "HH:mm",
+        "medium": "HH:mm:ss",
+        "long": "HH:mm:ss z",
+        "full": "HH:mm:ss zzzz"
+      }
+    },
+    {
+      "Locale": "en_JP",
+      "DateFormat": {
+        "small": "M/d/yy",
+        "medium": "MMM d, y",
+        "long": "MMMM d, y",
+        "full": "EEEE, MMMM d, y"
+      },
+      "TimeFormat": {
+        "small": "h:mm a",
+        "medium": "h:mm:ss a",
+        "long": "h:mm:ss a z",
+        "full": "h:mm:ss a zzzz"
+      }
+    },
+    {
+      "Locale": "en_CA",
+      "DateFormat": {
+        "small": "y-MM-dd",
+        "medium": "MMM d, y",
+        "long": "MMMM d, y",
+        "full": "EEEE, MMMM d, y"
+      },
+      "TimeFormat": {
+        "small": "h:mm a",
+        "medium": "h:mm:ss a",
+        "long": "h:mm:ss a z",
+        "full": "h:mm:ss a zzzz"
+      }
+    },
+    {
+      "Locale": "en_GB",
+      "DateFormat": {
+        "small": "dd/MM/y",
+        "medium": "d MMM y",
+        "long": "d MMMM y",
+        "full": "EEEE, d MMMM y"
+      },
+      "TimeFormat": {
+        "small": "HH:mm",
+        "medium": "HH:mm:ss",
+        "long": "HH:mm:ss z",
+        "full": "HH:mm:ss zzzz"
+      }
+    },
+    {
+      "Locale": "en_US",
+      "DateFormat": {
+        "small": "M/d/yy",
+        "medium": "MMM d, y",
+        "long": "MMMM d, y",
+        "full": "EEEE, MMMM d, y"
+      },
+      "TimeFormat": {
+        "small": "h:mm a",
+        "medium": "h:mm:ss a",
+        "long": "h:mm:ss a z",
+        "full": "h:mm:ss a zzzz"
+      }
+    },
+    {
+      "Locale": "es_AR",
+      "DateFormat": {
+        "small": "d/M/yy",
+        "medium": "d MMM y",
+        "long": "d 'de' MMMM 'de' y",
+        "full": "EEEE, d 'de' MMMM 'de' y"
+      },
+      "TimeFormat": {
+        "small": "HH:mm",
+        "medium": "HH:mm:ss",
+        "long": "HH:mm:ss z",
+        "full": "HH:mm:ss zzzz"
+      }
+    },
+    {
+      "Locale": "es_BO",
+      "DateFormat": {
+        "small": "d/M/yy",
+        "medium": "d MMM 'de' y",
+        "long": "d 'de' MMMM 'de' y",
+        "full": "EEEE, d 'de' MMMM 'de' y"
+      },
+      "TimeFormat": {
+        "small": "HH:mm",
+        "medium": "HH:mm:ss",
+        "long": "HH:mm:ss z",
+        "full": "HH:mm:ss zzzz"
+      }
+    },
+    {
+      "Locale": "es_CL",
+      "DateFormat": {
+        "small": "dd-MM-yy",
+        "medium": "dd-MM-y",
+        "long": "d 'de' MMMM 'de' y",
+        "full": "EEEE, d 'de' MMMM 'de' y"
+      },
+      "TimeFormat": {
+        "small": "HH:mm",
+        "medium": "HH:mm:ss",
+        "long": "HH:mm:ss z",
+        "full": "HH:mm:ss zzzz"
+      }
+    },
+    {
+      "Locale": "es_CO",
+      "DateFormat": {
+        "small": "d/MM/yy",
+        "medium": "d/MM/y",
+        "long": "d 'de' MMMM 'de' y",
+        "full": "EEEE, d 'de' MMMM 'de' y"
+      },
+      "TimeFormat": {
+        "small": "h:mm a",
+        "medium": "h:mm:ss a",
+        "long": "h:mm:ss a z",
+        "full": "h:mm:ss a zzzz"
+      }
+    },
+    {
+      "Locale": "es_CR",
+      "DateFormat": {
+        "small": "d/M/yy",
+        "medium": "d MMM y",
+        "long": "d 'de' MMMM 'de' y",
+        "full": "EEEE, d 'de' MMMM 'de' y"
+      },
+      "TimeFormat": {
+        "small": "HH:mm",
+        "medium": "HH:mm:ss",
+        "long": "HH:mm:ss z",
+        "full": "HH:mm:ss zzzz"
+      }
+    },
+    {
+      "Locale": "es_DO",
+      "DateFormat": {
+        "small": "d/M/yy",
+        "medium": "d MMM y",
+        "long": "d 'de' MMMM 'de' y",
+        "full": "EEEE, d 'de' MMMM 'de' y"
+      },
+      "TimeFormat": {
+        "small": "h:mm a",
+        "medium": "h:mm:ss a",
+        "long": "h:mm:ss a z",
+        "full": "h:mm:ss a zzzz"
+      }
+    },
+    {
+      "Locale": "es_EC",
+      "DateFormat": {
+        "small": "d/M/yy",
+        "medium": "d MMM y",
+        "long": "d 'de' MMMM 'de' y",
+        "full": "EEEE, d 'de' MMMM 'de' y"
+      },
+      "TimeFormat": {
+        "small": "HH:mm",
+        "medium": "HH:mm:ss",
+        "long": "HH:mm:ss z",
+        "full": "HH:mm:ss zzzz"
+      }
+    },
+    {
+      "Locale": "es_ES",
+      "DateFormat": {
+        "small": "d/M/yy",
+        "medium": "d MMM y",
+        "long": "d 'de' MMMM 'de' y",
+        "full": "EEEE, d 'de' MMMM 'de' y"
+      },
+      "TimeFormat": {
+        "small": "H:mm",
+        "medium": "H:mm:ss",
+        "long": "H:mm:ss z",
+        "full": "H:mm:ss (zzzz)"
+      }
+    },
+    {
+      "Locale": "es_GT",
+      "DateFormat": {
+        "small": "d/MM/yy",
+        "medium": "d/MM/y",
+        "long": "d 'de' MMMM 'de' y",
+        "full": "EEEE, d 'de' MMMM 'de' y"
+      },
+      "TimeFormat": {
+        "small": "HH:mm",
+        "medium": "HH:mm:ss",
+        "long": "HH:mm:ss z",
+        "full": "HH:mm:ss zzzz"
+      }
+    },
+    {
+      "Locale": "es_HN",
+      "DateFormat": {
+        "small": "d/M/yy",
+        "medium": "d MMM y",
+        "long": "dd 'de' MMMM 'de' y",
+        "full": "EEEE dd 'de' MMMM 'de' y"
+      },
+      "TimeFormat": {
+        "small": "HH:mm",
+        "medium": "HH:mm:ss",
+        "long": "HH:mm:ss z",
+        "full": "HH:mm:ss zzzz"
+      }
+    },
+    {
+      "Locale": "es_MX",
+      "DateFormat": {
+        "small": "dd/MM/yy",
+        "medium": "d MMM y",
+        "long": "d 'de' MMMM 'de' y",
+        "full": "EEEE, d 'de' MMMM 'de' y"
+      },
+      "TimeFormat": {
+        "small": "H:mm",
+        "medium": "H:mm:ss",
+        "long": "H:mm:ss z",
+        "full": "H:mm:ss zzzz"
+      }
+    },
+    {
+      "Locale": "es_NI",
+      "DateFormat": {
+        "small": "d/M/yy",
+        "medium": "d MMM y",
+        "long": "d 'de' MMMM 'de' y",
+        "full": "EEEE, d 'de' MMMM 'de' y"
+      },
+      "TimeFormat": {
+        "small": "HH:mm",
+        "medium": "HH:mm:ss",
+        "long": "HH:mm:ss z",
+        "full": "HH:mm:ss zzzz"
+      }
+    },
+    {
+      "Locale": "es_PA",
+      "DateFormat": {
+        "small": "MM/dd/yy",
+        "medium": "MM/dd/y",
+        "long": "d 'de' MMMM 'de' y",
+        "full": "EEEE, d 'de' MMMM 'de' y"
+      },
+      "TimeFormat": {
+        "small": "h:mm a",
+        "medium": "h:mm:ss a",
+        "long": "h:mm:ss a z",
+        "full": "h:mm:ss a zzzz"
+      }
+    },
+    {
+      "Locale": "es_PE",
+      "DateFormat": {
+        "small": "d/MM/yy",
+        "medium": "d MMM y",
+        "long": "d 'de' MMMM 'de' y",
+        "full": "EEEE, d 'de' MMMM 'de' y"
+      },
+      "TimeFormat": {
+        "small": "HH:mm",
+        "medium": "HH:mm:ss",
+        "long": "HH:mm:ss z",
+        "full": "HH:mm:ss zzzz"
+      }
+    },
+    {
+      "Locale": "es_PR",
+      "DateFormat": {
+        "small": "MM/dd/yy",
+        "medium": "MM/dd/y",
+        "long": "d 'de' MMMM 'de' y",
+        "full": "EEEE, d 'de' MMMM 'de' y"
+      },
+      "TimeFormat": {
+        "small": "h:mm a",
+        "medium": "h:mm:ss a",
+        "long": "h:mm:ss a z",
+        "full": "h:mm:ss a zzzz"
+      }
+    },
+    {
+      "Locale": "es_PY",
+      "DateFormat": {
+        "small": "d/M/yy",
+        "medium": "d MMM y",
+        "long": "d 'de' MMMM 'de' y",
+        "full": "EEEE, d 'de' MMMM 'de' y"
+      },
+      "TimeFormat": {
+        "small": "HH:mm",
+        "medium": "HH:mm:ss",
+        "long": "HH:mm:ss z",
+        "full": "HH:mm:ss zzzz"
+      }
+    },
+    {
+      "Locale": "es_SV",
+      "DateFormat": {
+        "small": "d/M/yy",
+        "medium": "d MMM y",
+        "long": "d 'de' MMMM 'de' y",
+        "full": "EEEE, d 'de' MMMM 'de' y"
+      },
+      "TimeFormat": {
+        "small": "HH:mm",
+        "medium": "HH:mm:ss",
+        "long": "HH:mm:ss z",
+        "full": "HH:mm:ss zzzz"
+      }
+    },
+    {
+      "Locale": "es_US",
+      "DateFormat": {
+        "small": "d/M/yy",
+        "medium": "d MMM y",
+        "long": "d 'de' MMMM 'de' y",
+        "full": "EEEE, d 'de' MMMM 'de' y"
+      },
+      "TimeFormat": {
+        "small": "h:mm a",
+        "medium": "h:mm:ss a",
+        "long": "h:mm:ss a z",
+        "full": "h:mm:ss a zzzz"
+      }
+    },
+    {
+      "Locale": "es_UY",
+      "DateFormat": {
+        "small": "d/M/yy",
+        "medium": "d MMM y",
+        "long": "d 'de' MMMM 'de' y",
+        "full": "EEEE, d 'de' MMMM 'de' y"
+      },
+      "TimeFormat": {
+        "small": "HH:mm",
+        "medium": "HH:mm:ss",
+        "long": "HH:mm:ss z",
+        "full": "HH:mm:ss zzzz"
+      }
+    },
+    {
+      "Locale": "es_VE",
+      "DateFormat": {
+        "small": "d/M/yy",
+        "medium": "d MMM y",
+        "long": "d 'de' MMMM 'de' y",
+        "full": "EEEE, d 'de' MMMM 'de' y"
+      },
+      "TimeFormat": {
+        "small": "h:mm a",
+        "medium": "h:mm:ss a",
+        "long": "h:mm:ss a z",
+        "full": "h:mm:ss a zzzz"
+      }
+    },
+    {
+      "Locale": "fi_FI",
+      "DateFormat": {
+        "small": "d.M.y",
+        "medium": "",
+        "long": "d. MMMM y",
+        "full": "cccc d. MMMM y"
+      },
+      "TimeFormat": {
+        "small": "H.mm",
+        "medium": "H.mm.ss",
+        "long": "H.mm.ss z",
+        "full": "H.mm.ss zzzz"
+      }
+    },
+    {
+      "Locale": "fr_CA",
+      "DateFormat": {
+        "small": "yy-MM-dd",
+        "medium": "d MMM y",
+        "long": "d MMMM y",
+        "full": "EEEE d MMMM y"
+      },
+      "TimeFormat": {
+        "small": "HH 'h' mm",
+        "medium": "HH 'h' mm 'min' ss 's'",
+        "long": "HH 'h' mm 'min' ss 's' z",
+        "full": "HH 'h' mm 'min' ss 's' zzzz"
+      }
+    },
+    {
+      "Locale": "fr_FR",
+      "DateFormat": {
+        "small": "dd/MM/y",
+        "medium": "d MMM y",
+        "long": "d MMMM y",
+        "full": "EEEE d MMMM y"
+      },
+      "TimeFormat": {
+        "small": "HH:mm",
+        "medium": "HH:mm:ss",
+        "long": "HH:mm:ss z",
+        "full": "HH:mm:ss zzzz"
+      }
+    },
+    {
+      "Locale": "fr_GP",
+      "DateFormat": {
+        "small": "dd/MM/y",
+        "medium": "d MMM y",
+        "long": "d MMMM y",
+        "full": "EEEE d MMMM y"
+      },
+      "TimeFormat": {
+        "small": "HH:mm",
+        "medium": "HH:mm:ss",
+        "long": "HH:mm:ss z",
+        "full": "HH:mm:ss zzzz"
+      }
+    },
+    {
+      "Locale": "fr_HT",
+      "DateFormat": {
+        "small": "dd/MM/y",
+        "medium": "d MMM y",
+        "long": "d MMMM y",
+        "full": "EEEE d MMMM y"
+      },
+      "TimeFormat": {
+        "small": "HH:mm",
+        "medium": "HH:mm:ss",
+        "long": "HH:mm:ss z",
+        "full": "HH:mm:ss zzzz"
+      }
+    },
+    {
+      "Locale": "fr_MQ",
+      "DateFormat": {
+        "small": "dd/MM/y",
+        "medium": "d MMM y",
+        "long": "d MMMM y",
+        "full": "EEEE d MMMM y"
+      },
+      "TimeFormat": {
+        "small": "HH:mm",
+        "medium": "HH:mm:ss",
+        "long": "HH:mm:ss z",
+        "full": "HH:mm:ss zzzz"
+      }
+    },
+    {
+      "Locale": "hu_HU",
+      "DateFormat": {
+        "small": "y. MM. dd.",
+        "medium": "y. MMM d.",
+        "long": "y. MMMM d.",
+        "full": "y. MMMM d., EEEE"
+      },
+      "TimeFormat": {
+        "small": "H:mm",
+        "medium": "H:mm:ss",
+        "long": "H:mm:ss z",
+        "full": "H:mm:ss zzzz"
+      }
+    },
+    {
+      "Locale": "it_IT",
+      "DateFormat": {
+        "small": "dd/MM/yy",
+        "medium": "d MMM y",
+        "long": "d MMMM y",
+        "full": "EEEE d MMMM y"
+      },
+      "TimeFormat": {
+        "small": "HH:mm",
+        "medium": "HH:mm:ss",
+        "long": "HH:mm:ss z",
+        "full": "HH:mm:ss zzzz"
+      }
+    },
+    {
+      "Locale": "ja_JP",
+      "DateFormat": {
+        "small": "y/MM/dd",
+        "medium": "",
+        "long": "y年M月d日",
+        "full": "y年M月d日EEEE"
+      },
+      "TimeFormat": {
+        "small": "H:mm",
+        "medium": "H:mm:ss",
+        "long": "H:mm:ss z",
+        "full": "H時mm分ss秒 zzzz"
+      }
+    },
+    {
+      "Locale": "ko_KR",
+      "DateFormat": {
+        "small": "yy. M. d.",
+        "medium": "y. M. d.",
+        "long": "y년 M월 d일",
+        "full": "y년 M월 d일 EEEE"
+      },
+      "TimeFormat": {
+        "small": "a h:mm",
+        "medium": "a h:mm:ss",
+        "long": "a h시 m분 s초 z",
+        "full": "a h시 m분 s초 zzzz"
+      }
+    },
+    {
+      "Locale": "nl_NL",
+      "DateFormat": {
+        "small": "dd-MM-yy",
+        "medium": "d MMM y",
+        "long": "d MMMM y",
+        "full": "EEEE d MMMM y"
+      },
+      "TimeFormat": {
+        "small": "HH:mm",
+        "medium": "HH:mm:ss",
+        "long": "HH:mm:ss z",
+        "full": "HH:mm:ss zzzz"
+      }
+    },
+    {
+      "Locale": "no_NO",
+      "DateFormat": {
+        "small": "",
+        "medium": "",
+        "long": "",
+        "full": ""
+      },
+      "TimeFormat": {
+        "small": "",
+        "medium": "",
+        "long": "",
+        "full": ""
+      }
+    },
+    {
+      "Locale": "pl_PL",
+      "DateFormat": {
+        "small": "dd.MM.y",
+        "medium": "d MMM y",
+        "long": "d MMMM y",
+        "full": "EEEE, d MMMM y"
+      },
+      "TimeFormat": {
+        "small": "HH:mm",
+        "medium": "HH:mm:ss",
+        "long": "HH:mm:ss z",
+        "full": "HH:mm:ss zzzz"
+      }
+    },
+    {
+      "Locale": "pt_BR",
+      "DateFormat": {
+        "small": "dd/MM/y",
+        "medium": "d 'de' MMM 'de' y",
+        "long": "d 'de' MMMM 'de' y",
+        "full": "EEEE, d 'de' MMMM 'de' y"
+      },
+      "TimeFormat": {
+        "small": "HH:mm",
+        "medium": "HH:mm:ss",
+        "long": "HH:mm:ss z",
+        "full": "HH:mm:ss zzzz"
+      }
+    },
+    {
+      "Locale": "pt_PT",
+      "DateFormat": {
+        "small": "dd/MM/yy",
+        "medium": "dd/MM/y",
+        "long": "d 'de' MMMM 'de' y",
+        "full": "EEEE, d 'de' MMMM 'de' y"
+      },
+      "TimeFormat": {
+        "small": "HH:mm",
+        "medium": "HH:mm:ss",
+        "long": "HH:mm:ss z",
+        "full": "HH:mm:ss zzzz"
+      }
+    },
+    {
+      "Locale": "ru_RU",
+      "DateFormat": {
+        "small": "dd.MM.y",
+        "medium": "d MMM y 'г'.",
+        "long": "d MMMM y 'г'.",
+        "full": "EEEE, d MMMM y 'г'."
+      },
+      "TimeFormat": {
+        "small": "H:mm",
+        "medium": "H:mm:ss",
+        "long": "H:mm:ss z",
+        "full": "H:mm:ss zzzz"
+      }
+    },
+    {
+      "Locale": "sl_SI",
+      "DateFormat": {
+        "small": "d. MM. yy",
+        "medium": "d. MMM y",
+        "long": "dd. MMMM y",
+        "full": "EEEE, dd. MMMM y"
+      },
+      "TimeFormat": {
+        "small": "HH:mm",
+        "medium": "HH:mm:ss",
+        "long": "HH:mm:ss z",
+        "full": "HH:mm:ss zzzz"
+      }
+    },
+    {
+      "Locale": "sv_SE",
+      "DateFormat": {
+        "small": "y-MM-dd",
+        "medium": "d MMM y",
+        "long": "d MMMM y",
+        "full": "EEEE d MMMM y"
+      },
+      "TimeFormat": {
+        "small": "HH:mm",
+        "medium": "HH:mm:ss",
+        "long": "HH:mm:ss z",
+        "full": "'kl'. HH:mm:ss zzzz"
+      }
+    },
+    {
+      "Locale": "th_TH",
+      "DateFormat": {
+        "small": "d/M/yy",
+        "medium": "d MMM y",
+        "long": "d MMMM G y",
+        "full": "EEEEที่ d MMMM G y"
+      },
+      "TimeFormat": {
+        "small": "HH:mm",
+        "medium": "HH:mm:ss",
+        "long": "H นาฬิกา mm นาที ss วินาที z",
+        "full": "H นาฬิกา mm นาที ss วินาที zzzz"
+      }
+    },
+    {
+      "Locale": "tr_TR",
+      "DateFormat": {
+        "small": "d.MM.y",
+        "medium": "d MMM y",
+        "long": "d MMMM y",
+        "full": "d MMMM y EEEE"
+      },
+      "TimeFormat": {
+        "small": "HH:mm",
+        "medium": "HH:mm:ss",
+        "long": "HH:mm:ss z",
+        "full": "HH:mm:ss zzzz"
+      }
+    },
+    {
+      "Locale": "zh_CN",
+      "DateFormat": {
+        "small": "",
+        "medium": "",
+        "long": "",
+        "full": ""
+      },
+      "TimeFormat": {
+        "small": "",
+        "medium": "",
+        "long": "",
+        "full": ""
+      }
+    },
+    {
+      "Locale": "zh_HK ",
+      "DateFormat": {
+        "small": "d/M/yy",
+        "medium": "y年M月d日",
+        "long": "",
+        "full": "y年M月d日EEEE"
+      },
+      "TimeFormat": {
+        "small": "ah:mm",
+        "medium": "ah:mm:ss",
+        "long": "z ah:mm:ss",
+        "full": "zzzz ah:mm:ss"
+      }
+    },
+    {
+      "Locale": "zh_TW",
+      "DateFormat": {
+        "small": "y/M/d",
+        "medium": "y年M月d日",
+        "long": "",
+        "full": "y年M月d日EEEE"
+      },
+      "TimeFormat": {
+        "small": "ah:mm",
+        "medium": "ah:mm:ss",
+        "long": "z ah:mm:ss",
+        "full": "zzzz ah:mm:ss"
+      }
+    }
+  ]
+}
